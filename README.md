@@ -1,7 +1,7 @@
-#ALX-PRE_COURSE
+# ALX-PRE_COURSE
 
-#Author
-Stacy Chebet
+# Author
+STACY CHEBET
 
-##Description
-This is my first github repo as an ALX Software Engineering student.
+## Description
+This is my first repo as an ALX Software Engineering Student.
